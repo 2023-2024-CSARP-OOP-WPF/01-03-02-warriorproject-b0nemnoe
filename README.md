@@ -26,3 +26,5 @@ A kód kimenete a következő kell legyen:
 (2,-1)    
 Peter the Iron Man, position (2,-1)    
 Peter the Iron Man, position (5,-3)    
+
+![image](https://github.com/2023-2024-CSARP-OOP-WPF/01-03-02-warriorproject-b0nemnoe/assets/85229364/dede913e-e4ec-4f17-be38-19e75859215c)
